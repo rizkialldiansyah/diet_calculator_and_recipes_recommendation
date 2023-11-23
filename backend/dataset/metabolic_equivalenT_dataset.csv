@@ -1,0 +1,89 @@
+code,description,effort,condition,metabolic_equivalents,level,mostly,category
+1,"Bersepedah, mendaki bukit",kuat,outdoor,16.34,very high,male,cardio
+2,"Bersepedah, BMX",kuat,outdoor,8.5,high,male,cardio
+3,"Bersepeda, santai, 5.5 mph",moderate,outdoor,3.5,low,general,cardio
+4,"Bersepeda,  9.5 mph",moderate,outdoor,5.8,moderate,general,cardio
+5,"Bersepeda, 10-11,9 mph",kuat,outdoor,6.8,moderate,general,cardio
+6,"Bersepeda, 12-13,9 mph",kuat,outdoor,8,moderate,general,cardio
+7,"Bersepeda, 14-15,9 mph",kuat,outdoor,10,moderate,general,cardio
+8,"Bersepeda, 16-19 mph",kuat,outdoor,12,moderate,general,cardio
+9,"Bersepeda, > 20 mph",kuat,outdoor,15.8,high,general,cardio
+10,Aerobic step dengan langkah sekitar 6 - 8 inci,kuat,indoor,7.5,high,female,cardio
+11,Aerobic step dengan langkah sekitar 10 - 12 inci,kuat,indoor,9.5,high,female,cardio
+12,Aerobic step dengan langkah 4 inci,moderate,indoor,5.5,moderate,female,cardio
+13,"Aerobic dance, impek rendah",moderate,indoor,5,moderate,female,cardio
+14,"Aerobic dance, impek tinggi",kuat,indoor,7.8,high,female,cardio
+15,Aerobic dance dengan mengenakan beban sekitar 10-15 pon.,kuat,indoor,10,very high,female,cardio
+16,Memanah,moderate,outdoor,4.3,high,general,sport
+17,Badminton,moderate,indoor,5.5,moderate,general,sport
+18,Basketball,kuat,hybrid,7.5,high,general,sport
+19,Memasukkan bola basket ke ring,moderate,hybrid,4.5,moderate,general,cardio
+20,Latihan atau drill basket,kuat,hybrid,10,moderate,general,cardio
+21,Billiards,ringan,indoor,2.5,moderate,general,sport
+22,Memukul samsak tinju,moderate,indoor,5.5,moderate,general,cardio
+23,Sparring Tinju,kuat,indoor,7.8,very high,male,sport
+24,Rugby,kuat,outdoor,8,high,male,sport
+25,Golf,moderate,outdoor,5.3,moderate,general,sport
+26,"Golf miniatur, lapangan pukul jauh",ringan,hybrid,3,moderate,general,sport
+27,Gymnastics,moderate,indoor,3.8,high,female,flexibility
+28,"Martial Arts, berbagai jenis, dengan intensitas sedang (contohnya judo, jujitsu, karate, kick boxing, tae kwan do, tai-bo, Muay Thai boxing)",kuat,indoor,10.3,high,general,cardio
+29,"Lompat tali, dengan kecepatan high, 120-160 lompatan per menit",kuat,hybrid,12.3,very high,general,cardio
+30,"Lompat tali, dengan kecepatan moderate, umum, 100 hingga 120 lompatan per menit, dengan lompatan dua kaki dan lompatan biasa",kuat,hybrid,11.8,high,general,cardio
+31,"Lompat tali, dengan kecepatan lambat, kurang dari 100 lompatan per menit, dengan lompatan dua kaki dan lompatan berirama.",kuat,hybrid,8.8,moderate,general,cardio
+32,Sepak bola,kuat,outdoor,8,moderate,general,sport
+33,Ping pong,moderate,indoor,4,high,general,sport
+34,"Tennis, doubles",moderate,outdoor,5,high,general,sport
+35,"Tennis, singles",kuat,outdoor,8,high,general,sport
+36,"Tenis, memukul bola, bukan dalam permainan.",moderate,outdoor,5,moderate,general,sport
+37,Jogging,kuat,outdoor,7,low,general,cardio
+38,"Running, 4 mph",moderate,outdoor,6,low,general,cardio
+39,"Running, 5 mph",kuat,outdoor,8.3,moderate,general,cardio
+40,"Running, 6 mph",kuat,outdoor,9.8,moderate,general,cardio
+41,"Running, 7 mph",kuat,outdoor,11,moderate,general,cardio
+42,"Running, 8 mph",kuat,outdoor,11.8,high,general,cardio
+43,"Running, 9 mph",kuat,outdoor,12.8,high,general,cardio
+44,"Running, 10 mph",kuat,outdoor,14.5,high,general,cardio
+45,"Running, 11 mph",kuat,outdoor,16,high,general,cardio
+46,"Running, 12 mph",kuat,outdoor,19,very high,general,cardio
+47,"Running, 13 mph",kuat,outdoor,19.8,very high,general,cardio
+48,"Running, 14 mph",kuat,outdoor,23,very high,general,cardio
+49,"Running, stairs, up",kuat,outdoor,15,high,general,cardio
+50,"Renang gaya dada (front crawl), dalam kecepatan rekreasi.",moderate,hybrid,5.9,high,general,cardio
+51,"Renang gaya punggung (backstroke), dalam kecepatan rekreasi",moderate,hybrid,4.8,high,general,cardio
+52,"Renang gaya kupu-kupu (butterfly), dalam kecepatan rekreasi.",moderate,hybrid,5.3,high,general,cardio
+53,"Renang di danau, lautan, sungai.",moderate,outdoor,6,very high,general,cardio
+54,"Renang, berenang di tempat, usaha sedang.",moderate,hybrid,3.5,high,general,cardio
+55,"Berjalan di dalam air, dengan kecepatan lambat.",ringan,hybrid,2.5,low,general,cardio
+56,"Berjalan di dalam air, dengan kecepatan sedang",moderate,hybrid,5,moderate,general,cardio
+57,"Berjalan di dalam air, dengan kecepatan cepat.",kuat,hybrid,6.8,moderate,general,cardio
+58,"Latihan lintasan rintangan tipe militer, program pelatihan boot camp",moderate,hybrid,5,high,general,strength
+59,"Bersepeda Stasioner, 30-50 watt, usaha sangat ringan hingga ringan",kuat,indoor,3.5,low,female,cardio
+60,"Bersepeda Stasioner, sepeda stasioner, 51-89 watt, usaha ringan hingga sedang",kuat,indoor,4.8,low,female,cardio
+61,"Bersepeda Stasioner, sepeda stasioner, 90-100 watt, usaha sedang hingga keras",kuat,indoor,6.8,low,general,cardio
+62,"Bersepeda Stasioner, sepeda stasioner, 101-160 watt, usaha keras",kuat,indoor,8.8,moderate,general,cardio
+63,"Bersepeda Stasioner, sepeda stasioner, 161-200 watt, usaha keras",kuat,indoor,11,moderate,general,cardio
+64,"Bersepeda Stasioner, sepeda stasioner, 201-270 watt, usaha sangat keras",kuat,indoor,14,moderate,general,cardio
+65,"Calisthenics (misalnya, curl up, abdominal crunches), usaha ringan",ringan,hybrid,2.8,low,male,strength
+66,"Calisthenics (misalnya, push-up, sit-up, pull-up, lunges), usaha sedang",moderate,hybrid,3.8,moderate,male,strength
+67,"Calisthenics (misalnya, push-up, sit-up, pull-up, jumping jacks), usaha keras",kuat,hybrid,8,very high,male,strength
+68,"Calisthenics, usaha ringan atau moderate, umum (misalnya, latihan punggung), naik turun dari lantai",kuat,hybrid,3.5,moderate,male,strength
+69,"Latihan sirkuit, usaha sedang",kuat,hybrid,4.3,moderate,general,strength
+70,"Latihan sirkuit, termasuk kettlebells, beberapa gerakan aerobik dengan istirahat minimal, umum, intensitas keras",kuat,indoor,8,high,general,strength
+71,Rutinitas latihan CurvesTM untuk wanita,kuat,indoor,3.5,moderate,female,cardio
+72,"Alat pelatihan elliptical, usaha sedang",kuat,indoor,5,low,female,strength
+73,"Latihan resistensi (angkat berat - beban bebas, nautilus, atau jenis universal), angkat berat atau body building, usaha keras",kuat,indoor,6,high,male,strength
+74,"Latihan resistensi (angkat berat), squats, usaha lambat atau cepat",kuat,indoor,5,moderate,female,strength
+75,"Latihan resistensi (angkat berat), beberapa latihan, 8-15 repetisi dengan resistensi yang bervariasi",kuat,indoor,3.5,moderate,general,strength
+76,"Kelas latihan klub kesehatan umum, latihan gym/berat badan dalam satu kunjungan",kuat,indoor,11,high,general,strength
+77,"Perahu dayung stasioner, ergometer, umum, <100 watt, usaha sedang",kuat,indoor,5,moderate,general,cardio
+78,"Perahu dayung stasioner, 100 hingga 149 watt, usaha keras",kuat,indoor,7.5,high,general,cardio
+79,"Perahu dayung stasioner, 150 hingga 199 watt, usaha keras",kuat,indoor,9.5,high,general,cardio
+80,"Perahu dayung stasioner, > 200 watt, usaha sangat keras",kuat,indoor,12.5,very high,general,cardio
+81,"Peregangan, ringan",kuat,indoor,2.3,low,general,flexibility
+82,"Pilates, umum",kuat,indoor,3,moderate,general,flexibility
+83,"Bola latihan terapeutik, latihan Fitball",kuat,indoor,2.8,moderate,female,flexibility
+84,"Latihan bagian atas tubuh, sepeda stasioner - Airdyne (hanya lengan) 40 rpm, intensitas sedang",kuat,indoor,4.3,moderate,male,cardio
+85,"Yoga, Hatha ",kuat,indoor,2.5,low,female,flexibility
+86,"Yoga, Power ",kuat,indoor,4,high,female,flexibility
+87,"Yoga, Nadisodhana",kuat,indoor,2,low,female,flexibility
+88,"Yoga, Surya Namaskar ",kuat,indoor,3.3,low,female,flexibility
