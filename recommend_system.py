@@ -88,7 +88,8 @@ def create_macro_micro_pie_chart(macro_values, micro_values):
 def show_all_recommendation():
     recipes = st.session_state.recommendation_data["recipes_recommended"]
     meal_plan = st.session_state.recommendation_data["meal_plan"]
-    meal_schedule = ['Breakfast', 'Launch', 'Dinner', 'Morning Snack', 'Afternoon Snack']
+    meal_schedule = ['Breakfast', 'Lunch', 'Dinner', 'Morning Snack', 'Afternoon Snack']
+    st.info("The recipe information provided in the recommendation system is sourced from the FatSecret website. To support FatSecret, visit their website at: https://www.fatsecret.co.id/.", icon="ℹ️")
     # Show All Recommendation Recipes
     col_meal_result = st.columns(meal_plan)
     for idx_meal_col, recommend_reslusts in enumerate(recipes):

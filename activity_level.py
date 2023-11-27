@@ -53,4 +53,4 @@ def form_activity_level():
     selected_gender = st.session_state.user_data['fit_user']['gender'].lower()
     data_activity = filter_and_sort_data(selected_level, selected_condition, selected_category, selected_gender, calories)
 
-    st.dataframe(data_activity)
+    st.dataframe(data_activity,use_container_width=True, hide_index=True)
