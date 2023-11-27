@@ -12,9 +12,9 @@ def show_food_source():
 
     with col_detail:
         if "Plant Based" in selected_categories :
-            default_food = ["nasi"]
+            default_food = ["nasi merah"]
         elif "Animal Based" in selected_categories :
-            default_food = ["ayam"]
+            default_food = ["dada ayam"]
         selected_food = st.multiselect('Select Food Categories', filtered_data['Name'].unique(), default=default_food, max_selections=8)
         list_selected_food = {}
         num_columns = min(len(selected_food), 2)
