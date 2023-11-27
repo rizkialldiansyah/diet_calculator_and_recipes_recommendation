@@ -18,7 +18,7 @@ ikan patin,100,105,18.0,0.0,2.9,Animal Based
 ikan sarden,100,109,19.9,0.0,1.8,Animal Based
 ikan teri,100,210,29.0,0.0,10.0,Animal Based
 ikan tuna,100,131,28.0,0.0,1.3,Animal Based
-kepiting,100,101,20.0,,1.8,Animal Based
+kepiting,100,101,20.0,0.0,1.8,Animal Based
 kulit ayam,100,454,20.4,0.0,40.7,Animal Based
 lobster,100,97,21.0,1.4,0.6,Animal Based
 paha ayam,100,245,24.9,0.0,15.4,Animal Based
@@ -91,7 +91,7 @@ tempe,100,192,19.0,11.0,9.0,Plant Based
 terung,100,24,1.0,5.7,0.2,Plant Based
 tomat,100,18,0.9,3.9,0.2,Plant Based
 wortel,100,41,0.9,9.6,0.2,Plant Based
-mentega,100,717,0.9,0.1,,Animal Based
+mentega,100,717,0.9,0.1,81.1,Animal Based
 margarin,100,526,0.6,0.0,59.2,Plant Based
 putih telur,100,52,10.9,0.7,0.2,Animal Based
 kuning telur,100,322,15.9,3.6,26.5,Animal Based
