@@ -1,2 +1,2 @@
-# diet_calculator_and_recipes_recommendation
-# Diet Calculator and Recipes Recommendation System
+## Deployed in Streamlit Share
+https://dietcalculatorandrecipesrecommendation-9pz6nk7xgajz9zhhkbqpcx.streamlit.app/
